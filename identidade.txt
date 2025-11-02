@@ -4,3 +4,4 @@ idade 18
 militar
 paraty
 rj
+cor de cabelo loiro
