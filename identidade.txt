@@ -1,2 +1,4 @@
 nome: davi
 cpf 000.000.000-00
+idade 18
+militar
